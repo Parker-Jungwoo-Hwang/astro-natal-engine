@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroFramesTests/TropicalGeocentricBodyPositionCalculatorTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/TropicalGeocentricBodyPositionCalculatorTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/TropicalGeocentricBodyPositionCalculatorTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/TropicalGeocentricBodyPositionCalculatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/TropicalGeocentricBodyPositionCalculatorTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroFramesTests.build/TropicalGeocentricBodyPositionCalculatorTests.dia"
+  }
+}

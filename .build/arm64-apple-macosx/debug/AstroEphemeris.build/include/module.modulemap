@@ -1,0 +1,3 @@
+module AstroEphemeris {
+    header "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemeris.build/include/AstroEphemeris-Swift.h"
+}

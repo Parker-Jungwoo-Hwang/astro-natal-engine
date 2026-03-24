@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroRuntimeDataTests/FileSystemDataPackStoreTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/FileSystemDataPackStoreTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/FileSystemDataPackStoreTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/FileSystemDataPackStoreTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/FileSystemDataPackStoreTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/FileSystemDataPackStoreTests.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroRuntimeDataTests/RuntimeDataEarthOrientationProviderTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeDataEarthOrientationProviderTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeDataEarthOrientationProviderTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeDataEarthOrientationProviderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeDataEarthOrientationProviderTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeDataEarthOrientationProviderTests.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroRuntimeDataTests/RuntimeInstalledDataLocatorTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeInstalledDataLocatorTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeInstalledDataLocatorTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeInstalledDataLocatorTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeInstalledDataLocatorTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroRuntimeDataTests.build/RuntimeInstalledDataLocatorTests.dia"
+  }
+}

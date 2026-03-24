@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroSchemasTests/SchemaRoundTripTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/SchemaRoundTripTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/SchemaRoundTripTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/SchemaRoundTripTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/SchemaRoundTripTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroSchemasTests.build/SchemaRoundTripTests.dia"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Exports.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Exports.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Exports.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Exports.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Exports.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/NatalChartEngine.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartEngine.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartEngine.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartEngine.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalChartEngine.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/NatalEngineConfiguration.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalEngineConfiguration.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalEngineConfiguration.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalEngineConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalEngineConfiguration.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/NatalEngineConfiguration.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage10NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage10NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage10NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage10NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage10NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage10NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage12NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage12NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage12NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage12NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage12NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage12NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage4NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage4NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage4NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage4NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage4NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage4NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage5NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage5NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage5NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage5NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage5NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage5NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage6NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage6NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage6NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage6NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage6NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage6NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage7NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage7NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage7NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage7NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage7NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage7NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage8NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage8NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage8NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage8NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage8NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage8NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/Stage9NatalChartComputer.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage9NatalChartComputer.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage9NatalChartComputer.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage9NatalChartComputer~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage9NatalChartComputer.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/Stage9NatalChartComputer.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroNatalEngine/StrictBirthResolver.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/StrictBirthResolver.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/StrictBirthResolver.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/StrictBirthResolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/StrictBirthResolver.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroNatalEngine.build/StrictBirthResolver.dia"
+  }
+}

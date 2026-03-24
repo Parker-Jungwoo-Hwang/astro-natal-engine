@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Sources/AstroHouses/PlacidusHouseSolver.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/PlacidusHouseSolver.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/PlacidusHouseSolver.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/PlacidusHouseSolver~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/PlacidusHouseSolver.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroHouses.build/PlacidusHouseSolver.dia"
+  }
+}

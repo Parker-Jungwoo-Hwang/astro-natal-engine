@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/master.swiftdeps"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroEphemerisTests/DE442SmokeTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/DE442SmokeTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/DE442SmokeTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/DE442SmokeTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/DE442SmokeTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/DE442SmokeTests.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroEphemerisTests/JPLEphemerisProviderTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/JPLEphemerisProviderTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/JPLEphemerisProviderTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/JPLEphemerisProviderTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/JPLEphemerisProviderTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/JPLEphemerisProviderTests.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroEphemerisTests/SPKKernelTests.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SPKKernelTests.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SPKKernelTests.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SPKKernelTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SPKKernelTests.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SPKKernelTests.dia"
+  },
+  "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/Tests/AstroEphemerisTests/SyntheticSPKFixture.swift": {
+    "dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SyntheticSPKFixture.d",
+    "object": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SyntheticSPKFixture.swift.o",
+    "swiftmodule": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SyntheticSPKFixture~partial.swiftmodule",
+    "swift-dependencies": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SyntheticSPKFixture.swiftdeps",
+    "diagnostics": "/Users/parker/Downloads/AstroNatalEngine-Stage2-clean/.build/arm64-apple-macosx/debug/AstroEphemerisTests.build/SyntheticSPKFixture.dia"
+  }
+}
